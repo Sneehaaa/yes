@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<head>
+<style>
+body {
+  background-color: PURPLE;
+}
+
+h1 {
+  color: WHITE;
+  text-align: center;
+}
+p{
+color: WHITE;
+  text-align: center;
+
+  
+
+  font-family: AERINA;
+  font-size: 20px;
+  
+}
+</style>
+</head>
+<body>
+
+<h1>SUGER BEADS</h1>
+<h1>My First Emoji</h1>
+<h2>HTML Image</h2>
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+
+
+<p>MY HANDWORK.</p>
+<p>&#128512;</p>
+
+</body>
+</html>
+
